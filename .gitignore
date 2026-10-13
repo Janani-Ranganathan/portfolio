@@ -1,0 +1,16 @@
+# Not part of the published site
+*.bak*
+*.bak-*
+index.bak-*.html
+index.old.html
+sample-folders*.html
+backup-*/
+backup-cv-section.html
+HANDOFF*.md
+tools/
+content/
+claude-design-assets/
+projects/
+.claude/
+assets/jodhpurpark/new/orig/
+assets/collectively/deck/orig-cards/
