@@ -1486,7 +1486,7 @@
     { key: "Work", label: "Professional Work", color: "#0c2036" }
   ];
 
-  var BIO = "I’m Janani, an architect and urban designer who reads cities through data and designs them for the people who use them. I graduated as a gold medalist in my master’s in urban design from Jadavpur University, and have taught and practiced across India. I was a UPLGYF fellow in urban policy and local governance. I’m currently pursuing a master’s degree in urban planning and data analytics at IAAC, Barcelona. At IAAC, I work with spatial data, from satellite imagery to street-level surveys and other urban analytics tools, and my thesis asks how public space can adapt to a warming climate while working for women.";
+  var BIO = "I’m Janani, an architect and urban designer who reads cities through data and designs them for the people who use them. I graduated as a gold medalist in my master’s in urban design from Jadavpur University, and have taught and practiced across India. I was a UPLGYF fellow in urban policy and local governance. I’m currently pursuing another master’s degree in Advanced Urban Planning and Data Analytics at IAAC, Barcelona, Spain. At IAAC, I work with spatial data, from satellite imagery to street-level surveys and other urban analytics tools, and my thesis asks how public space can adapt to a warming climate while working for women.";
 
   var DETAIL_TOCS = [
     ["downtowns-detail", "dt-", "downtowns-toc-link", "#1f4f8f"],
